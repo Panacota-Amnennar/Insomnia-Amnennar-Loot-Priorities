@@ -1,5 +1,5 @@
 ## Interface: 11303
-## Title: Insomnia Amnennar ML
+## Title: Insomnia Amnennar Loot Priorities
 ## Author: panacota-amnennar@decigames.net
 ## Version: 1.0
 
