@@ -1,4 +1,4 @@
-# Insomnia-Amnennar-ML
+# Insomnia Amnennar - Loot Priorities
 
 This addon adds our guild loot priorities to the in game tooltip.
 
