@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: Insomnia Amnennar ML
+## Author: panacota-amnennar@decigames.net
+## Version: 1.0
+
+lib.lua
+table.lua
+hook.lua
