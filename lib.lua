@@ -7,7 +7,7 @@ function append_to_tooltip(tooltip)
       if LOOT_TABLE[item_id] then
         tooltip:AddLine("Insomnia ML")
         for i, v in ipairs(LOOT_TABLE[item_id]["ml"]) do
-          tooltip:AddLine("  " .. v, 0.47, 0.63, 1.0)
+          tooltip:AddLine("  " .. v, 0.004, 0.8, 1.0)
         end
       end
     end

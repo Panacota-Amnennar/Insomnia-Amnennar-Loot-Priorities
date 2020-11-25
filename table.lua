@@ -1,14 +1,10 @@
 LOOT_TABLE = {
   
-  ["id"] = {["name"] = "nom", ["ml"] = {
+  ["21221"] = {["name"] = "Oeil de cthun", ["ml"] = {
     
-      "commentaire #1",
+      "Attribution masterclass > ratio",
     
-      "commentaire #2",
-    
-      "commentaire #3",
-    
-      "commentaire #4",
+      "Mage, Démoniste > Chaman > Druide, Prêtre",
     
   }},
   
@@ -102,8 +98,6 @@ LOOT_TABLE = {
     
       "Chaman > Druide, Prêtre",
     
-      "BiS Game Chaman",
-    
   }},
   
   ["21582"] = {["name"] = "Torsade du dieu très ancien", ["ml"] = {
@@ -158,7 +152,23 @@ LOOT_TABLE = {
   
   ["23075"] = {["name"] = "Pacte de la mort", ["ml"] = {
     
-      "Attribution +2",
+      "Attribution en +2",
+    
+      "Chaman",
+    
+  }},
+  
+  ["22819"] = {["name"] = "Bouclier de condamnation", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Chaman",
+    
+  }},
+  
+  ["23005"] = {["name"] = "Totem de leau courante", ["ml"] = {
+    
+      "Attribution en +2",
     
       "Chaman",
     
@@ -185,6 +195,102 @@ LOOT_TABLE = {
       "Attribution masterclass > ratio",
     
       "Prêtre, Druide > Chaman",
+    
+  }},
+  
+  ["23056"] = {["name"] = "Marteau du néant distordu", ["ml"] = {
+    
+      "Attribution officier > masterclass",
+    
+      "Chaman, Druide, Prêtre",
+    
+  }},
+  
+  ["23029"] = {["name"] = "Coeur frigide de noth", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Prêtre, Druide > Chaman",
+    
+  }},
+  
+  ["22960"] = {["name"] = "Cape de suture", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Prêtre, Druide > Chaman",
+    
+  }},
+  
+  ["23048"] = {["name"] = "Oeil droit de saphiron", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Prêtre, Druide > Chaman",
+    
+  }},
+  
+  ["23047"] = {["name"] = "Oeil du mort", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Chaman, Druide, Prêtre",
+    
+  }},
+  
+  ["23547"] = {["name"] = "Résistance du fléau", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Chaman, Druide, Prêtre",
+    
+  }},
+  
+  ["22801"] = {["name"] = "Pic du crépuscule", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Chaman > Druide, Prêtre",
+    
+  }},
+  
+  ["23004"] = {["name"] = "Idole de longévité", ["ml"] = {
+    
+      "Attribution en +2",
+    
+      "Druide",
+    
+  }},
+  
+  ["23009"] = {["name"] = "Baguette de la mort murmurante", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Prêtre",
+    
+  }},
+  
+  ["23065"] = {["name"] = "Anneau de Brise-terre", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Chaman",
+    
+  }},
+  
+  ["23061"] = {["name"] = "Anneau de foi", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Prêtre",
+    
+  }},
+  
+  ["23064"] = {["name"] = "Anneau de marcherêve", ["ml"] = {
+    
+      "Attribution masterclass > ratio",
+    
+      "Druide",
     
   }},
   
